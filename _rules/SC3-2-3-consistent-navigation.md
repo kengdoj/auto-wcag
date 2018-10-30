@@ -1,7 +1,7 @@
 ---
 name: Consistent navigation
 description: |
-  Each image that is not marked as decorative, has an accessible name
+  Each navigational mechanism that is repeated on multiple pages is in the same relative order on each page
 
 success_criterion:
 - 3.2.3 # Consistent navigation
