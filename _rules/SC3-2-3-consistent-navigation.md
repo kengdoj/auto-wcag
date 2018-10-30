@@ -1,7 +1,7 @@
 ---
 name: Consistent navigation
 description: |
-  Each navigational mechanism that is repeated on multiple pages is in the [same relative order](https://www.w3.org/TR/WCAG20/#samerelorderdef) on each page
+  Each navigational mechanism that is repeated on multiple pages is in the same relative order on each page
 
 success_criterion:
 - 3.2.3 # Consistent navigation
@@ -12,7 +12,6 @@ test_aspects:
 
 authors:
 - Kathy Eng
-
 ---
 ## Test procedure
 
@@ -22,7 +21,7 @@ The rule applies to any [navigational mechanism](auto-wcag/pages/glossary/naviga
 
 ### Expectation
 
-Each target element occurs in the same relative order each time it is repeated on a page.
+Each target element occurs in the [same relative order](https://www.w3.org/TR/WCAG20/#samerelorderdef) each time it is repeated on a page.
 
 ## Accessibility Support
 
